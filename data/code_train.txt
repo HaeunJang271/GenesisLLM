@@ -1,0 +1,13087 @@
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
+
+<python>
+
+class Rectangle:
+
+    def __init__(self, width, height):
+
+        self.width = width
+        self.height = height
+
+
+    def area(self):
+
+        return self.width * self.height
+
+</python>
+
+<python>
+
+def add(a, b):
+
+    result = a + b
+
+    return result
+
+</python>
+
+<python>
+
+def subtract(a, b):
+
+    result = a - b
+
+    return result
+
+</python>
+
+<python>
+
+def multiply(a, b):
+
+    result = a * b
+
+    return result
+
+</python>
+
+<python>
+
+def divide(a, b):
+
+    if b == 0:
+
+        return None
+
+    result = a / b
+
+    return result
+
+</python>
+
+<python>
+
+def reverse_string(text):
+
+    result = ""
+
+    for char in text:
+
+        result = char + result
+
+    return result
+
+</python>
+
+<python>
+
+def count_vowels(text):
+
+    vowels = "aeiou"
+
+    count = 0
+
+    for char in text:
+
+        if char in vowels:
+
+            count += 1
+
+    return count
+
+</python>
+
+<python>
+
+def calculate_average(numbers):
+
+    total = 0
+
+    for number in numbers:
+
+        total += number
+
+    return total / len(numbers)
+
+</python>
+
+<python>
+
+def read_file(path):
+
+    with open(path, "r") as file:
+
+        content = file.read()
+
+    return content
+
+</python>
+
+<python>
+
+def save_file(path, text):
+
+    with open(path, "w") as file:
+
+        file.write(text)
+
+</python>
+
+<python>
+
+class User:
+
+    def __init__(self, name, age):
+
+        self.name = name
+        self.age = age
+
+
+    def introduce(self):
+
+        return self.name
+
+</python>
